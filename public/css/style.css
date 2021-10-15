@@ -1,0 +1,59 @@
+
+.signup {
+  margin-top: 10%;
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label, a {
+  font-family: 'Concert One', cursive;
+}
+
+p, h2 {
+  font-family: 'Concert One', cursive
+}
+
+.title-about {
+  font-size: 42px;
+  font-family: 'Concert One', cursive;
+}
+
+.about-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.section-text {
+ text-align: center; 
+ width: 750px;
+}
+
+.teste {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 10%;
+}
+
+.flex-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
+.title-shop {
+  font-family: 'Concert One', cursive;
+  font-size: 68px;
+}
